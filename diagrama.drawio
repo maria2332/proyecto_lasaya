@@ -68,7 +68,10 @@
                         <mxPoint x="170" y="330" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="32" style="edgeStyle=none;html=1;" edge="1" parent="1" source="23" target="10">
+                <mxCell id="32" style="edgeStyle=none;html=1;" edge="1" parent="1" source="33" target="10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" style="edgeStyle=none;html=1;" edge="1" parent="1" source="23" target="33">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="23" value="¿Está la lasaña lista?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -85,6 +88,9 @@
                 </mxCell>
                 <mxCell id="29" value="sí" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
                     <mxGeometry x="480" y="270" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="sí" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="360" width="20" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
